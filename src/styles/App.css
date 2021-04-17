@@ -1,16 +1,21 @@
 h1 {
-    color: #27aedb;
-    text-align: center;
-    }
-    
-
-button{
-    color: #27aedb;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+  color: #27aedb;
+  text-align: center;
 }
 
-.bg-pink{
-	background-color:pink;
+button {
+  color: #27aedb;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-pink {
+  background-color: pink;
+}
+.container {
+  display: grid;
+  row-gap: 10px;
+  justify-content: center;
+  margin-top: 100px;
 }
